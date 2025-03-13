@@ -1,4 +1,4 @@
-# ESG Confidence Scoring using OpenAI GPT
+## ESG Confidence Scoring using OpenAI GPT
 An AI-powered system to evaluate ESG (Environmental, Social, and Governance) disclosures using OpenAI's GPT and text embeddings.
 
 ## Overview
